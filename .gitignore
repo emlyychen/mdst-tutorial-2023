@@ -160,5 +160,4 @@ cython_debug/
 #.idea/
 
 #vscode
-mode
-.DS_Store/
+.DS_Store
